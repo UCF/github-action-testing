@@ -1,0 +1,8 @@
+{
+    "name": "ucf/github-action-testing",
+    "description": "This plugin has no functionality and is only used for github action testing.",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
