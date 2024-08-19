@@ -3,7 +3,3 @@ This is a new file.
 This is another line.
 
 Adding another line.
-
-Adding yet another line in there.
-
-Oh no, I'm going to lose all of this because I'm on the wrong branch.
