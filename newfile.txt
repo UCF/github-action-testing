@@ -3,3 +3,5 @@ This is a new file.
 This is another line.
 
 I want to revert this.
+
+I also want to revert this.
